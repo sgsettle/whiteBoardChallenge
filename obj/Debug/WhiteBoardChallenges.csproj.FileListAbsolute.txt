@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\bin\Debug\WhiteBoardChallenges.exe.config
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\bin\Debug\WhiteBoardChallenges.exe
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\bin\Debug\WhiteBoardChallenges.pdb
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\obj\Debug\WhiteBoardChallenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\obj\Debug\WhiteBoardChallenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\obj\Debug\WhiteBoardChallenges.exe
+C:\ElevenFiftyProjects\dailyChallenges\WhiteBoardChallenges\obj\Debug\WhiteBoardChallenges.pdb
